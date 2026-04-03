@@ -1,0 +1,5 @@
+{
+  "name": "R&D Nexus Agent",
+  "description": "Autonomous Research & Development Intelligence Agent that produces high-quality, scannable daily R&D newsletters powered by Gemini and Google Search.",
+  "requestFramePermissions": []
+}
